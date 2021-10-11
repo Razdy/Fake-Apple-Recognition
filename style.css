@@ -1,0 +1,23 @@
+body
+{
+    color: maroon;
+    background-color: teal;
+}
+
+.heading
+{
+width: 80%;
+font-size: 25px;
+background-color: maroon;
+}
+
+.name_of_objects
+{
+color: maroon ;
+}
+#camera
+{
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
